@@ -1,0 +1,3 @@
+/home/mywork/QuickJson/build/CMakeFiles/rebuild_cache.dir
+/home/mywork/QuickJson/build/CMakeFiles/edit_cache.dir
+/home/mywork/QuickJson/build/CMakeFiles/main.dir
